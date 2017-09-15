@@ -1,0 +1,14 @@
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.0\WebApplication1.pdb
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.dll
+C:\Users\user\Documents\GitHub\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.0\WebApplication1.pdb
