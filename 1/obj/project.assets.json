@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\1\\1\\1.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\1\\1.csproj",
       "projectName": "1",
-      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\1\\1\\1.csproj",
+      "projectPath": "C:\\Users\\user\\Documents\\GitHub\\1\\1.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\1\\1\\obj\\",
+      "outputPath": "C:\\Users\\user\\Documents\\GitHub\\1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
